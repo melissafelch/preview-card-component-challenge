@@ -58,7 +58,7 @@ I estimated this challenge would take me under an hour to complete, but it took 
 
 ### Useful resources
 
-- [Example resource 1](https://css-tricks.com/almanac/properties/g/grid-template-columns/) - Even moreso than Flexbox, Grid has a really high barrier of entry. Aside from the usual Grid guide from css-tricks, this was a helpful article regarding fixed sizing as well.
+- [CSS-Tricks Almanac: grid-template-columns](https://css-tricks.com/almanac/properties/g/grid-template-columns/) - Even moreso than Flexbox, Grid has a really high barrier of entry. Aside from the usual Grid guide from css-tricks, this was a helpful article regarding fixed sizing as well.
 
 ## Author
 

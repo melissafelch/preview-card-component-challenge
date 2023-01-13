@@ -47,7 +47,7 @@ Users should be able to:
 ### What I learned
 
 My first thought looking through this challenge was this was a no-brainer flexbox problem... which it can be, but it felt like a really good
-excuse to practice grid, which I have less experience with (as a Flexbox evangelist... it's a problem :)). While the desktop view was a simple 1fr grid,
+excuse to practice grid, which I have less experience with (as a Flexbox evangelist... it's a problem). While the desktop view was a simple 1fr grid,
 I found the mobile view slightly more tricky, as the design spec clearly indicated that the header image would be significantly smaller than the body of the product card. For this part of the exercise I imagined how this would look on a production site, on which there would likely be several repeating cards - which made me realize that there was no way we could do a fr resize on this guy, so fixed pixel width it is! In a production environment I think I'd like to see an option to cut off text for the card, but this is a level one exercise, after all!
 
 Final thoughts: The grid loves you, and you should love the grid.
@@ -58,7 +58,7 @@ I estimated this challenge would take me under an hour to complete, but it took 
 
 ### Useful resources
 
-- [CSS-Tricks Almanac: grid-template-columns](https://css-tricks.com/almanac/properties/g/grid-template-columns/) - Even moreso than Flexbox, Grid has a really high barrier of entry. Aside from the usual Grid guide from css-tricks, this was a helpful article regarding fixed sizing as well.
+- [CSS-Tricks Almanac: grid-template-columns](https://css-tricks.com/almanac/properties/g/grid-template-columns/) - Even moreso than Flexbox, Grid has a really high barrier of entry. Aside from the usual Grid guide from css-tricks, this was a helpful reference for fixed sizing as well.
 
 ## Author
 
